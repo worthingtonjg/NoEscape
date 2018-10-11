@@ -2,13 +2,13 @@ This was our 2015 Game Jam entry. I developed this game with my 14 year old son 
 
 ## WebGL Demo
 
-<http://worthingtonjg.github.io/NoEscape/>{:target="_blank"}
+<http://worthingtonjg.github.io/NoEscape/>
 
 ## Repository
 
 Please keep your expectations for code quality low and keep in mind 48 hours is not a lot of time to finish a project. And much of this project was done on very little sleep.
 
-<https://github.com/worthingtonjg/NoEscape>{:target="_blank"}
+<https://github.com/worthingtonjg/NoEscape>
 
 ## Project Notes
 
