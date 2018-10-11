@@ -1,9 +1,3 @@
----
-layout: post
-banner_image: no-escape.png
----
-
-
 This was our 2015 Game Jam entry. I developed this game with my 14 year old son in 48 hours using Unity3d.  We wanted a game that tells a story. We had two days to create something, and this is what we came up with.  You are stuck in a prison cell with no escape. You keep passing out and having these visions / out of body experiences that allow you to wander the prison. Are your dreams real?
 
 ## WebGL Demo
